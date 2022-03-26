@@ -1,0 +1,11 @@
+C:\Users\The\Documents\Homework\GCU\CST150\Week 3\Activity 6\Activiy 6\bin\Debug\Activiy 6.exe.config
+C:\Users\The\Documents\Homework\GCU\CST150\Week 3\Activity 6\Activiy 6\bin\Debug\Activiy 6.exe
+C:\Users\The\Documents\Homework\GCU\CST150\Week 3\Activity 6\Activiy 6\bin\Debug\Activiy 6.pdb
+C:\Users\The\Documents\Homework\GCU\CST150\Week 3\Activity 6\Activiy 6\obj\Debug\Activiy 6.csproj.AssemblyReference.cache
+C:\Users\The\Documents\Homework\GCU\CST150\Week 3\Activity 6\Activiy 6\obj\Debug\Activiy 6.csproj.SuggestedBindingRedirects.cache
+C:\Users\The\Documents\Homework\GCU\CST150\Week 3\Activity 6\Activiy 6\obj\Debug\Activiy_6.Activity6.resources
+C:\Users\The\Documents\Homework\GCU\CST150\Week 3\Activity 6\Activiy 6\obj\Debug\Activiy_6.Properties.Resources.resources
+C:\Users\The\Documents\Homework\GCU\CST150\Week 3\Activity 6\Activiy 6\obj\Debug\Activiy 6.csproj.GenerateResource.cache
+C:\Users\The\Documents\Homework\GCU\CST150\Week 3\Activity 6\Activiy 6\obj\Debug\Activiy 6.csproj.CoreCompileInputs.cache
+C:\Users\The\Documents\Homework\GCU\CST150\Week 3\Activity 6\Activiy 6\obj\Debug\Activiy 6.exe
+C:\Users\The\Documents\Homework\GCU\CST150\Week 3\Activity 6\Activiy 6\obj\Debug\Activiy 6.pdb
