@@ -1,4 +1,0 @@
-First Word Alphabetically: a
-Last Word Alphabetically: yellow
-Longest Word: undergrowth
-Word With Most Vowels: diverged
