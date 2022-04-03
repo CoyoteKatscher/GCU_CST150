@@ -1,4 +1,9 @@
-﻿using System;
+﻿// Brian Potter
+// CST-150
+// 04/03/2022
+// All of the code is my own work
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
