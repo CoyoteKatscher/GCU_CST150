@@ -2,8 +2,7 @@
 // CST-150
 // 04/10/2022
 // Primary souce used to understand the concepts for completing the assignment:
-// Doyle, B. (2011). Chapter 5 Making Decisions. In C♯ Programming: From problem analysis to program design,
-// Course Technology, Cengage Learning. 
+// Doyle, B. (2011). In C♯ Programming: From problem analysis to program design, Course Technology, Cengage Learning. 
 // The code is of my own work
 
 using System;
