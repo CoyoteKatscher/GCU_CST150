@@ -1,0 +1,11 @@
+C:\Users\The\Documents\Homework\GCU\CST150\Week 6\Activity13\bin\Debug\Activity13.exe.config
+C:\Users\The\Documents\Homework\GCU\CST150\Week 6\Activity13\bin\Debug\Activity13.exe
+C:\Users\The\Documents\Homework\GCU\CST150\Week 6\Activity13\bin\Debug\Activity13.pdb
+C:\Users\The\Documents\Homework\GCU\CST150\Week 6\Activity13\obj\Debug\Activity13.csproj.AssemblyReference.cache
+C:\Users\The\Documents\Homework\GCU\CST150\Week 6\Activity13\obj\Debug\Activity13.csproj.SuggestedBindingRedirects.cache
+C:\Users\The\Documents\Homework\GCU\CST150\Week 6\Activity13\obj\Debug\Activity13.Activity13.resources
+C:\Users\The\Documents\Homework\GCU\CST150\Week 6\Activity13\obj\Debug\Activity13.Properties.Resources.resources
+C:\Users\The\Documents\Homework\GCU\CST150\Week 6\Activity13\obj\Debug\Activity13.csproj.GenerateResource.cache
+C:\Users\The\Documents\Homework\GCU\CST150\Week 6\Activity13\obj\Debug\Activity13.csproj.CoreCompileInputs.cache
+C:\Users\The\Documents\Homework\GCU\CST150\Week 6\Activity13\obj\Debug\Activity13.exe
+C:\Users\The\Documents\Homework\GCU\CST150\Week 6\Activity13\obj\Debug\Activity13.pdb
