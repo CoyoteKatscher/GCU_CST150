@@ -1,0 +1,24 @@
+C:\Users\The\Documents\Homework\GCU\CST150\Milestone\Activity15\bin\Debug\Activity15.exe.config
+C:\Users\The\Documents\Homework\GCU\CST150\Milestone\Activity15\bin\Debug\Activity15.exe
+C:\Users\The\Documents\Homework\GCU\CST150\Milestone\Activity15\bin\Debug\Activity15.pdb
+C:\Users\The\Documents\Homework\GCU\CST150\Milestone\Activity15\obj\Debug\Activity15.csproj.AssemblyReference.cache
+C:\Users\The\Documents\Homework\GCU\CST150\Milestone\Activity15\obj\Debug\Activity15.csproj.SuggestedBindingRedirects.cache
+C:\Users\The\Documents\Homework\GCU\CST150\Milestone\Activity15\obj\Debug\Activity15.EntryScreen.resources
+C:\Users\The\Documents\Homework\GCU\CST150\Milestone\Activity15\obj\Debug\Activity15.LuckyNumber.resources
+C:\Users\The\Documents\Homework\GCU\CST150\Milestone\Activity15\obj\Debug\Activity15.Properties.Resources.resources
+C:\Users\The\Documents\Homework\GCU\CST150\Milestone\Activity15\obj\Debug\Activity15.csproj.GenerateResource.cache
+C:\Users\The\Documents\Homework\GCU\CST150\Milestone\Activity15\obj\Debug\Activity15.csproj.CoreCompileInputs.cache
+C:\Users\The\Documents\Homework\GCU\CST150\Milestone\Activity15\obj\Debug\Activity15.exe
+C:\Users\The\Documents\Homework\GCU\CST150\Milestone\Activity15\obj\Debug\Activity15.pdb
+C:\Users\The\Documents\Homework\GCU\CST150\Week 7\Activity15\bin\Debug\Activity15.exe.config
+C:\Users\The\Documents\Homework\GCU\CST150\Week 7\Activity15\bin\Debug\Activity15.exe
+C:\Users\The\Documents\Homework\GCU\CST150\Week 7\Activity15\bin\Debug\Activity15.pdb
+C:\Users\The\Documents\Homework\GCU\CST150\Week 7\Activity15\obj\Debug\Activity15.csproj.AssemblyReference.cache
+C:\Users\The\Documents\Homework\GCU\CST150\Week 7\Activity15\obj\Debug\Activity15.csproj.SuggestedBindingRedirects.cache
+C:\Users\The\Documents\Homework\GCU\CST150\Week 7\Activity15\obj\Debug\Activity15.EntryScreen.resources
+C:\Users\The\Documents\Homework\GCU\CST150\Week 7\Activity15\obj\Debug\Activity15.LuckyNumber.resources
+C:\Users\The\Documents\Homework\GCU\CST150\Week 7\Activity15\obj\Debug\Activity15.Properties.Resources.resources
+C:\Users\The\Documents\Homework\GCU\CST150\Week 7\Activity15\obj\Debug\Activity15.csproj.GenerateResource.cache
+C:\Users\The\Documents\Homework\GCU\CST150\Week 7\Activity15\obj\Debug\Activity15.csproj.CoreCompileInputs.cache
+C:\Users\The\Documents\Homework\GCU\CST150\Week 7\Activity15\obj\Debug\Activity15.exe
+C:\Users\The\Documents\Homework\GCU\CST150\Week 7\Activity15\obj\Debug\Activity15.pdb
