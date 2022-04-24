@@ -1,0 +1,23 @@
+C:\Users\The\Documents\Homework\GCU\CST150\Milestone\Milestone 3\bin\Debug\Milestone 3.exe.config
+C:\Users\The\Documents\Homework\GCU\CST150\Milestone\Milestone 3\bin\Debug\Milestone 3.exe
+C:\Users\The\Documents\Homework\GCU\CST150\Milestone\Milestone 3\bin\Debug\Milestone 3.pdb
+C:\Users\The\Documents\Homework\GCU\CST150\Milestone\Milestone 3\obj\Debug\Milestone 3.csproj.AssemblyReference.cache
+C:\Users\The\Documents\Homework\GCU\CST150\Milestone\Milestone 3\obj\Debug\Milestone 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\The\Documents\Homework\GCU\CST150\Milestone\Milestone 3\obj\Debug\Milestone_3.MilestonePrj.resources
+C:\Users\The\Documents\Homework\GCU\CST150\Milestone\Milestone 3\obj\Debug\Milestone_3.Properties.Resources.resources
+C:\Users\The\Documents\Homework\GCU\CST150\Milestone\Milestone 3\obj\Debug\Milestone 3.csproj.GenerateResource.cache
+C:\Users\The\Documents\Homework\GCU\CST150\Milestone\Milestone 3\obj\Debug\Milestone 3.csproj.CoreCompileInputs.cache
+C:\Users\The\Documents\Homework\GCU\CST150\Milestone\Milestone 3\obj\Debug\Milestone 3.exe
+C:\Users\The\Documents\Homework\GCU\CST150\Milestone\Milestone 3\obj\Debug\Milestone 3.pdb
+C:\Users\The\Documents\Homework\GCU\CST150\Milestone\Milestone 4\bin\Debug\Milestone 3.exe.config
+C:\Users\The\Documents\Homework\GCU\CST150\Milestone\Milestone 4\bin\Debug\Milestone 3.exe
+C:\Users\The\Documents\Homework\GCU\CST150\Milestone\Milestone 4\bin\Debug\Milestone 3.pdb
+C:\Users\The\Documents\Homework\GCU\CST150\Milestone\Milestone 4\obj\Debug\Milestone 3.csproj.AssemblyReference.cache
+C:\Users\The\Documents\Homework\GCU\CST150\Milestone\Milestone 4\obj\Debug\Milestone 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\The\Documents\Homework\GCU\CST150\Milestone\Milestone 4\obj\Debug\Milestone_3.DisplayInventory.resources
+C:\Users\The\Documents\Homework\GCU\CST150\Milestone\Milestone 4\obj\Debug\Milestone_3.MilestonePrj.resources
+C:\Users\The\Documents\Homework\GCU\CST150\Milestone\Milestone 4\obj\Debug\Milestone_3.Properties.Resources.resources
+C:\Users\The\Documents\Homework\GCU\CST150\Milestone\Milestone 4\obj\Debug\Milestone 3.csproj.GenerateResource.cache
+C:\Users\The\Documents\Homework\GCU\CST150\Milestone\Milestone 4\obj\Debug\Milestone 3.csproj.CoreCompileInputs.cache
+C:\Users\The\Documents\Homework\GCU\CST150\Milestone\Milestone 4\obj\Debug\Milestone 3.exe
+C:\Users\The\Documents\Homework\GCU\CST150\Milestone\Milestone 4\obj\Debug\Milestone 3.pdb
