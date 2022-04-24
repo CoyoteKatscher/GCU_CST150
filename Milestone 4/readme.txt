@@ -11,7 +11,7 @@ Inventory items are maintained in a List class of Radio objects.
 Two forms are used in this application
 
 Main is the main screen where a user can enter data for a radio and add it to the inventory. 
-DisplayForm is the form that is launched when the user clicks the Display button on the main form. 
+DisplayInventory is the form that is launched when the user clicks the Display button on the main form. 
 
 #3: Presentation.
 Loom was used to create the video presentation.
